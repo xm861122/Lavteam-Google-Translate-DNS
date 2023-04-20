@@ -17,9 +17,7 @@
 
 ```
 203.208.40.66 translate.google.com
-
 203.208.40.66 translate.googleapis.com
-
 180.163.151.162 translate.googleapis.com
 
 ```
@@ -30,9 +28,7 @@
 
 ```
 195.170.63.163 lavteam.org
-
 195.170.63.163 forum.lavteam.org
-
 195.170.63.163 files.lavteam.org
 
 ```
