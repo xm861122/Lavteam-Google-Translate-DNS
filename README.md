@@ -1,4 +1,4 @@
-# google translate DNS
+# Google Translate DNS, etc.
 以下信息均收集自互联网，由于最近查信息及使用翻译等操作不便。便上网搜寻相关DNS可用信息，如GOOGLE翻译，Lavteam俄罗斯某专业论坛等。
 后续会根据自己的实际需要会不定期更新。
 
