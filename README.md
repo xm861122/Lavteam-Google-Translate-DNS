@@ -19,7 +19,9 @@
 203.208.40.66 translate.google.com
 203.208.40.66 translate.googleapis.com
 180.163.151.162 translate.googleapis.com
-
+142.250.1.90 translate.google.com
+142.250.1.90 translate.googleapis.com
+142.250.1.90 translate.googleapis.com
 ```
 
 ****
